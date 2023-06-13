@@ -18,6 +18,8 @@ Go to the project directory
 
 ```bash
     composer install
+    or
+    composer update
 ```
 
 ```bash
