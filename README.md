@@ -30,6 +30,10 @@ Go to the project directory
     php artisan migrate:fresh --seed
 ```
 
+```bash
+    php artisan serve
+```
+
 #### Login
 -   email = admin@gmail.com
 -   password = 123
